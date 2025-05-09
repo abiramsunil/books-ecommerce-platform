@@ -18,7 +18,7 @@ const MOCK_FEATURED_BOOKS = [
     rating: 4.5,
     reviewCount: 128,
     badge: 'Bestseller',
-    categories: ['Mystery', 'Thriller'],
+    categories: ['Mystery', 'Thriller','Romantic'],
     description: 'A gripping tale of secrets and revelations in a small coastal town.'
   },
   {
