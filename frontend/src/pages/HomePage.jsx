@@ -18,7 +18,7 @@ const MOCK_FEATURED_BOOKS = [
     rating: 4.5,
     reviewCount: 128,
     badge: 'Bestseller',
-    categories: ['Mystery', 'Thriller','Romantic'],
+    categories: ['Mystery', 'thriller','romantic'],
     description: 'A gripping tale of secrets and revelations in a small coastal town.'
   },
   {
@@ -30,7 +30,7 @@ const MOCK_FEATURED_BOOKS = [
     rating: 4.2,
     reviewCount: 89,
     badge: 'New',
-    categories: ['Sci-Fi', 'Adventure'],
+    categories: ['Sci-Fi', 'adventure'],
     description: 'An epic journey through space and time that challenges the very fabric of reality.'
   },
   {
